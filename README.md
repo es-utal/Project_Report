@@ -112,6 +112,9 @@ To develop a scalable, user-friendly crowdsourced delivery system that:
    - OAuth 2.0 for authentication.
    - Data encryption for sensitive information.
 
+     ![uml](https://github.com/user-attachments/assets/ee903b52-3321-44ec-a6d3-2287db7346c9)
+
+
 #### Tools:
 - AWS for architecture design.
 - MySQL/PostgreSQL for database design.
