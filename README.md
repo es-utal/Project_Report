@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HSTU.png" alt="HSTU Logo" width="250" height="300">
+  <img src="HSTU.png" alt="hstu_logo_.png" width="250" height="300">
 </p>
 <h1 align="center">
   <b>CrowdDrop: A Crowdsourced Delivery System</b>
