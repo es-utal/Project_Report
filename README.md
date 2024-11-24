@@ -10,6 +10,9 @@
 </h3>
 <h3 align="center">
   Course Code: CSE 305 
+</h3>
+
+<h3 align="center">
   Course Title: Software Engineering
 </h3>
 <br>
